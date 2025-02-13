@@ -1,0 +1,2 @@
+C:\Users\33601\Desktop\JeuMobileGD2\JeuMobileAvecJoystick\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\33601\Desktop\JeuMobileGD2\JeuMobileAvecJoystick\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
